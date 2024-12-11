@@ -112,7 +112,6 @@ money-map/
 1. **Expense Tracking**
     - Add, edit, delete transactions
     - Categorize expenses
-    - Attach images to transactions
 
 2. **Visualization**
     - Pie charts of expense distribution
@@ -120,9 +119,7 @@ money-map/
     - Customizable financial reports
 
 3. **Image Integration**
-    - Receipt and transaction image uploads
-    - Image carousel for transaction history
-    - Efficient image management with Glide
+    - Added finance tips carousal
 
 ## 🛠️ Build and Run
 
@@ -164,7 +161,7 @@ money-map/
 
 ## 📱 Supported Android Versions
 
-- Minimum SDK: Android 6.0 (Marshmallow)
+- Minimum SDK: Android 7.0 (Nougat)
 - Target SDK: Android 12
 
 ## 📧 Connect & Support
